@@ -31,6 +31,8 @@ namespace Facec_Apresentacao
 
             var posicaoGPS = new PosicaoGPS(15.00m, -50.00m);
 
+            Console.WriteLine("Está no Hemisfério Norte: " + $"{posicaoGPS.IsHemisphereNorth()}");
+
             #endregion Struct
 
 
