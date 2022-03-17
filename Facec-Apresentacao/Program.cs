@@ -12,10 +12,27 @@ namespace Facec_Apresentacao
     {
         static void Main(string[] args)
         {
-            ImprimirVelocidadeFinal(new Cooper());
-            ImprimirVelocidadeFinal(new Fusca());
+            #region Chamada método extension
+            //ImprimirVelocidadeFinal(new Cooper());
+            //ImprimirVelocidadeFinal(new Fusca());
+            #endregion Chamada método extension
 
-            ImprimirMembrosHumano(new Humano());
+            #region Classe partial
+            //ImprimirMembrosHumano(new Humano());
+            #endregion Classe partial
+
+            #region Struct
+
+            //PosicaoGPS posicaoGPS = new PosicaoGPS()
+            //{
+            //    Latitude = 50.00m,
+            //    Longitude = -15.00m,
+            //};
+
+            var posicaoGPS = new PosicaoGPS(15.00m, -50.00m);
+
+            #endregion Struct
+
 
             Console.ReadLine();
         }

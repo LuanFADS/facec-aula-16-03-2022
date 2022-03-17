@@ -48,6 +48,7 @@
     <Compile Include="Fusca.cs" />
     <Compile Include="HumanoMembrosInferiores.cs" />
     <Compile Include="HumanoMembrosSuperiores.cs" />
+    <Compile Include="PosicaoGPS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
