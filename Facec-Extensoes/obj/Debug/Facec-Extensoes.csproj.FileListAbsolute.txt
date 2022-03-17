@@ -1,0 +1,10 @@
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\bin\Debug\Facec-Extensoes.dll
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\bin\Debug\Facec-Extensoes.pdb
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\bin\Debug\Facec-Classes.exe
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\bin\Debug\Facec-Classes.pdb
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\bin\Debug\Facec-Classes.exe.config
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\obj\Debug\Facec-Extensoes.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\obj\Debug\Facec-Extensoes.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\obj\Debug\Facec-Extensoes.csproj.CopyComplete
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\obj\Debug\Facec-Extensoes.dll
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Extensoes\obj\Debug\Facec-Extensoes.pdb

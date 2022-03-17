@@ -1,0 +1,14 @@
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\bin\Debug\Facec-Apresentacao.exe.config
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\bin\Debug\Facec-Apresentacao.exe
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\bin\Debug\Facec-Apresentacao.pdb
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\bin\Debug\Facec-Classes.exe
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\bin\Debug\Facec-Extensoes.dll
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\bin\Debug\Facec-Classes.pdb
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\bin\Debug\Facec-Classes.exe.config
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\bin\Debug\Facec-Extensoes.pdb
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\obj\Debug\Facec-Apresentacao.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\obj\Debug\Facec-Apresentacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\obj\Debug\Facec-Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\obj\Debug\Facec-Apresentacao.csproj.CopyComplete
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\obj\Debug\Facec-Apresentacao.exe
+C:\Users\facec.lab04\source\repos\Aula.16.03.2022\Facec-Apresentacao\obj\Debug\Facec-Apresentacao.pdb
